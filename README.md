@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @gorrv
-- 👀 I’m interested in music and game developing.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I shower.
+
